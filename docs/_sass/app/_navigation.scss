@@ -3,23 +3,34 @@
 $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
+a {
+  color: #163172;
+}
+
+a:hover { 
+  color: white;
+}
+
+
 .gdm-nav {
-  background-color: $dark;
+  background-color: #d5e3ef;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
 
 .nav-link {
+  font-family: 'Source Code Pro', monospace;
   position: relative;
   &::before {
     display: block;
     left: .5rem;
     opacity: .5;
     position: absolute;
+    color: #163172;
   }
   &.active {
-    background-color: $primary;
-    color: $light;
+    background-color: #163172;
+    color: white;
   }
   &.disabled {
 

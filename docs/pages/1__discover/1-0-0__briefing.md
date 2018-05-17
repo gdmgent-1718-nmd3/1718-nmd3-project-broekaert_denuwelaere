@@ -7,22 +7,24 @@ published: true
 title: Briefing
 ---
 
-# Opdracht
+## Opdracht
 
 In deze opdracht proberen we in team een applicatie te ontwikkelen waarbij we het museumbezoek proberen te vergemakelijken. Het is de bedoeling dat deze applicatie ondersteunt wordt door een smartwatch. 
 
 
-# Wie zijn wij?
+## Wie zijn wij?
 
 Ons team bestaat uit 2 studenten die grafische en digitale media studeren in de Arteveldehogeschool.
 
-## Broekaert Florian (2CMO-GD)
-
-## Denuwelaere Stan (2CMO-GD)
 
 
+### Broekaert Florian (2CMO-GD)
 
-# Ons museum?
+### Denuwelaere Stan (2CMO-GD)
+
+
+
+## Ons museum?
 
 
 In een land waar oorlog heeft gewoed, gaat die niet gauw meer voorbij, ook niet als die oorlog inmiddels een eeuw achter ons ligt. Voor elk van de meer dan 600.000 doden die vielen in ons land, voor elk van de ruim 425.000 graven en namen op monumenten en voor de honderden andere sporen en relicten in de frontstreek, voor elk van de miljoenen getroffenen (fysisch of psychisch gewonden, vluchtelingen en gedeporteerden) bestaat er een verhaal van verdriet, pijn en beproeving ergens in de wereld.
