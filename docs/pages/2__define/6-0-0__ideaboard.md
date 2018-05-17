@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+![ideas](/1718-nmd3-project-broekaert_denuwelaere/assets/images/ideaboard.jpg)

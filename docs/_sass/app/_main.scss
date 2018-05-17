@@ -8,7 +8,19 @@
   "scrollbar";
 
 .card {
-  color: #163172;
+  background-color: #163172 !important;
+}
+
+.btn {background-color: #d5e3ef;
+color: black;
+border-color: white;}
+.btn:hover {
+  background-color: black;
+  border-color: white;
+}
+.btn:active{
+  background-color: black !important;
+  border-color: black !important;
 }
 
 
@@ -50,3 +62,5 @@ img[alt=journey] { width: 100%;}
 img[alt=style] { width: 100%;}
 
 img[alt=visuals] { width: 100%;}
+
+img[alt=ideas] { width: 100%;}

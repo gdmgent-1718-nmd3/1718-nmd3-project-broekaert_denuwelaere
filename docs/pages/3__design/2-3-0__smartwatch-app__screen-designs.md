@@ -9,6 +9,5 @@ title: Screen Designs
 
 ![visuals](/1718-nmd3-project-broekaert_denuwelaere/assets/images/visualswatch.jpg)
 
-
-Dit is [Google](https://www.google.com){:target="_parent"}{:.btn.btn-primary}
+Open in [Adobe XD](https://xd.adobe.com/view/d318d394-9c6d-48e5-77e2-7e75c48f8349-a529/){:target="_blank"}{:.btn.btn-primary}
 
