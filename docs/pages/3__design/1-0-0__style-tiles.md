@@ -9,20 +9,20 @@ title: Style Tiles
 
 Gekozen
 -------
-![style](/docs/assets/images/style3.jpg)
+![style](/1718-nmd3-project-broekaert_denuwelaere/assets/images/style3.jpg)
 
 Alternatief 1
 -------------
-![style](/docs/assets/images/style1.jpg)
+![style](/1718-nmd3-project-broekaert_denuwelaere/assets/images/style1.jpg)
 
 Alternatief 2
 -------------
-![style](/docs/assets/images/style2.jpg)
+![style](/1718-nmd3-project-broekaert_denuwelaere/assets/images/style2.jpg)
 
 Alternatief 3
 -------------
-![style](/docs/assets/images/style4.jpg)
+![style](/1718-nmd3-project-broekaert_denuwelaere/assets/images/style4.jpg)
 
 Alternatief 4
 -------------
-![style](/docs/assets/images/style5.jpg)
+![style](/1718-nmd3-project-broekaert_denuwelaere/assets/images/style5.jpg)
