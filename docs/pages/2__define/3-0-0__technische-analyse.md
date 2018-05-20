@@ -66,7 +66,7 @@ title: Technische Analyse
 ### Features:
 ○ GPS, GLONASS, Galileo en QZSS  
 ○ Barometrische hoogtemeter  
-○ Waterbestendig tot 50 meter1  
+○ Waterbestendig tot 50 meter  
 ○ Hartslagsensor  
 ○ Versnellings­meter  
 ○ Gyroscoop  
