@@ -3,26 +3,44 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 42.00
+  task: Lessen
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 4.25
+  task: Museumbezoek + interview
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 12.50
+  task: Idee uitwerken
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 4.75
+  task: Uitwerking pitch
+-
+  time: 5.50
+  task: Styletiles maken
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Paper prototype
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 12.25
+  task: Wireflow smartwatch
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3.25
+  task: Gebruikerstesten
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 4.75
+  task: Visuals smartwatch
+-
+  time: 7.25
+  task: Wireflow smartphone
+-
+  time: 4.50
+  task: Visuals smartphone
+-
+  time: 4.50
+  task: Wireflow website
+-
+  time: 3.50
+  task: Visuals website
+-
+  time: 12.75
+  task: Productiedossier
