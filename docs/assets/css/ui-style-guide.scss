@@ -4,3 +4,82 @@
 
 @import
   "ui-style-guide/main";
+
+p {
+  font-family: 'Source Code Pro', monospace;
+  margin-top: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'PT Mono', monospace;
+  margin-left: 80px;
+  margin-right: 80px;
+
+}
+
+h1 {
+
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-decoration: underline;
+  color: #163172;
+}
+
+h2 {
+  margin-top: 60px;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.db {
+  background-color: #1E56A0;
+  color: white;
+}
+
+.test {
+  background-color: #163172;
+  color: white;
+}
+
+.gr {
+  background-color: #F6F6F6;
+}
+
+.lb {
+  background-color: #D6E4F0;
+}
+
+.zw {
+  background-color: #000000;
+  color: white;
+}
+
+.btn {
+  background-color: #d5e3ef;
+  color: black;
+  border-color: white;
+  padding: 10px;
+  border-radius: 20%;
+}
+
+  .btn:hover {
+    background-color: black;
+    border-color: white;
+    color: white;
+  }
+  .btn:active{
+    background-color: black !important;
+    border-color: black !important;
+  }
