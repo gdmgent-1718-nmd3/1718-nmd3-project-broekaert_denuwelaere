@@ -21,17 +21,17 @@ We hebben ook gedacht aan enkele kleinere zaken zoals een bedanking na het bezoe
 #### Doelstellingen:
 {:.concept}
 
-○ Vlot bezoek  
-○ Nieuwe technologiën gebruiken  
-○ Te veel prikkels  
-○ Interactief  
-○ Ook actief: verwijzingen naar andere oorlogsmonumenten in de streek.  
+* Vlot bezoek  
+* Nieuwe technologiën gebruiken  
+* Te veel prikkels  
+* Interactief  
+* Ook actief: verwijzingen naar andere oorlogsmonumenten in de streek.  
 
 
 #### Acties:
 {:.concept}
 
-○ Trefwoordenlijst + navigatie  
-○ Augmented Reality  
-○ Zoekspel  
+* Trefwoordenlijst + navigatie  
+* Augmented Reality  
+* Zoekspel  
 
