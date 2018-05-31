@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Smartphone-app
 ---
+
+![formulier](/1718-nmd3-project-broekaert_denuwelaere/assets/images/spmockup.png)

@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+![formulier](/1718-nmd3-project-broekaert_denuwelaere/assets/images/swmockup.png) 
